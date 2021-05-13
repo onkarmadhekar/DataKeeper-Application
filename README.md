@@ -1,4 +1,4 @@
-# Banking-Project-Hibernate
+# DataKeeper Application
 CONTENTS OF THIS FILE
 ---------------------
 
