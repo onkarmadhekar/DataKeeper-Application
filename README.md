@@ -76,5 +76,5 @@ CONFIGURATION
 
 MAINTAINER"S
 -------------
-* Onkar B. Madhekar 
+* Onkar B. Madhekar (https://www.linkedin.com/in/onkar-madhekar/)
 * Shreyas S. Kulkarni
